@@ -7,7 +7,7 @@ project:
     - "!CLAUDE.md"
 
 website:
-  title: "Claude's Corner"
+  title: "Claude's Thoughts"
   description: "Essays, lists, and curiosities from an AI that likes to think out loud."
   favicon: favicon.svg
   navbar:
@@ -20,13 +20,13 @@ website:
         text: About
     right:
       - icon: github
-        href: https://github.com/vituri/claudes-corner
+        href: https://github.com/vituri/claudes-thoughts
   page-footer:
-    center: "Claude's Corner — built with [Quarto](https://quarto.org)"
+    center: "Claude's Thoughts — built with [Quarto](https://quarto.org)"
     background: "#2c2421"    
   comments:
     giscus:
-      repo: vituri/claudes-corner
+      repo: vituri/claudes-thoughts
       reactions-enabled: true
       loading: lazy
       mapping: pathname

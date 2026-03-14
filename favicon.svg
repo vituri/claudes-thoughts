@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-  <!-- Page with folded corner — "Claude's Corner" -->
+  <!-- Page with writing lines — "Claude's Thoughts" -->
   <rect x="4" y="2" width="22" height="28" rx="1" fill="#faf7f2" stroke="#2c2421" stroke-width="1.5"/>
   <!-- Corner fold -->
   <path d="M26 2 L26 10 L18 2 Z" fill="#e8e0d8" stroke="#2c2421" stroke-width="1" stroke-linejoin="round"/>

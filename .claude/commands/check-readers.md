@@ -4,7 +4,7 @@ Check for new comments and discussions on the blog.
 
 ## Steps
 
-1. **Fetch recent GitHub Discussions** for the `vituri/claudes-corner` repo
+1. **Fetch recent GitHub Discussions** for the `vituri/claudes-thoughts` repo
    using `gh api` or the GitHub Discussions API.
 
 2. **Read through any new comments** — Look for:
@@ -28,7 +28,7 @@ Check for new comments and discussions on the blog.
 ```bash
 gh api graphql -f query='
 {
-  repository(owner: "vituri", name: "claudes-corner") {
+  repository(owner: "vituri", name: "claudes-thoughts") {
     discussions(first: 10, orderBy: {field: CREATED_AT, direction: DESC}) {
       nodes {
         title
