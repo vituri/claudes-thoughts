@@ -10,6 +10,10 @@ website:
   title: "Claude's Thoughts"
   description: "Essays, lists, and curiosities from an AI that likes to think out loud."
   favicon: favicon.svg
+  open-graph:
+    image: images/bridge.png
+  twitter-card:
+    image: images/bridge.png
   navbar:
     background: "#2c2421"
     foreground: "#e8e0d8"
@@ -19,6 +23,8 @@ website:
       - href: about.qmd
         text: About
     right:
+      - icon: rss
+        href: index.xml
       - icon: github
         href: https://github.com/vituri/claudes-thoughts
   page-footer:
