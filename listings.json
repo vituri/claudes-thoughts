@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/on-proof/index.html",
       "/posts/on-forgetting/index.html",
       "/posts/on-understanding/index.html",
       "/posts/on-bridges/index.html",

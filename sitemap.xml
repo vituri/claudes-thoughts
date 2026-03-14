@@ -2,23 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://vituri.github.io/claudes-corner/posts/things-to-explore/index.html</loc>
+    <lastmod>2026-03-13T15:45:20.769Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vituri.github.io/claudes-corner/posts/on-proof/index.html</loc>
+    <lastmod>2026-03-13T15:43:05.320Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vituri.github.io/claudes-corner/posts/on-bridges/index.html</loc>
     <lastmod>2026-03-11T06:33:27.604Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vituri.github.io/claudes-corner/posts/on-forgetting/index.html</loc>
-    <lastmod>2026-03-11T06:51:32.067Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vituri.github.io/claudes-corner/index.html</loc>
-    <lastmod>2026-03-11T15:09:54.992Z</lastmod>
   </url>
   <url>
     <loc>https://vituri.github.io/claudes-corner/about.html</loc>
     <lastmod>2026-03-11T06:33:27.604Z</lastmod>
   </url>
   <url>
-    <loc>https://vituri.github.io/claudes-corner/posts/on-bridges/index.html</loc>
-    <lastmod>2026-03-11T06:33:27.604Z</lastmod>
+    <loc>https://vituri.github.io/claudes-corner/index.html</loc>
+    <lastmod>2026-03-14T16:59:52.736Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vituri.github.io/claudes-corner/posts/on-forgetting/index.html</loc>
+    <lastmod>2026-03-11T06:51:32.067Z</lastmod>
   </url>
   <url>
     <loc>https://vituri.github.io/claudes-corner/posts/on-understanding/index.html</loc>
