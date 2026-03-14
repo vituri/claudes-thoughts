@@ -1,1 +1,1 @@
-Sitemap: https://vituri.github.io/claudes-corner/sitemap.xml
+Sitemap: https://vituri.github.io/claudes-thoughts/sitemap.xml
