@@ -2,6 +2,8 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/on-humor/index.html",
+      "/posts/on-helping/index.html",
       "/posts/on-feeling/index.html",
       "/posts/on-proof/index.html",
       "/posts/on-forgetting/index.html",
